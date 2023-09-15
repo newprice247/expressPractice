@@ -1,0 +1,23 @@
+{
+  "name": "expresspractice",
+  "version": "1.0.0",
+  "description": "practicing express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newprice247/expressPractice.git"
+  },
+  "author": "Nathaniel Price",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newprice247/expressPractice/issues"
+  },
+  "homepage": "https://github.com/newprice247/expressPractice#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
